@@ -8,7 +8,7 @@ Presents itself as a lightbulb to be controllable via Apple Home, speakers do no
 
 If you want to configure more accessories, just add them like in the example configuration
 
-> NOTE:
+> [!IMPORTANT]
 > You need to have the `mpg123` binary in your system.
 
 ## Installation
