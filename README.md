@@ -1,4 +1,4 @@
-# Web Radio Player for HomeBridge
+# Web Radio Player for [HomeBridge](https://homebridge.io)
 
 Based off [github.com/m-reiniger/homebridge-radioplayer](https://github.com/m-reiniger/homebridge-radioplayer)
 
