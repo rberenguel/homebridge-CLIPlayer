@@ -1,0 +1,23 @@
+{
+    "name": "homebridge-cliplayer",
+    "version": "0.1.0",
+    "description": "Play web radio streams and control them via HomeBridge",
+    "main": "index.js",
+    "keywords": [
+        "homebridge",
+        "homebridge-plugin",
+        "webradio",
+        "radio",
+        "player",
+        "stream"
+    ],
+    "author": "Ruben Berenguel",
+    "license": "MIT",
+    "engines": {
+        "node": ">=7.6.0",
+        "homebridge": ">=0.2.0"
+    },
+    "dependencies": {
+        "loudness": "^0.4.0"
+    }
+}
